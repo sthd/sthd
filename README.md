@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello 👋 I am Elior
+### 
+
+### Check my FPGA 2D game [here](https://github.com/sthd/Dangerous-Dave-FPGA)
+<p>
+<img src="https://github.com/sthd/Dangerous-Dave-FPGA/blob/main/b/gameplayA.png"  width="40%" height="40%">
+<img src="https://github.com/sthd/Dangerous-Dave-FPGA/blob/main/b/gameplayB.png"  width="40%" height="40%">
+</p>
 
 <!--
 **sthd/sthd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
