@@ -1,6 +1,6 @@
 
 # Hello 👋 I am Elior
-- 🧑‍💻 I'm a **Full-Stack Developer**
+- 🧑‍💻 I'm a **Software Engineer**
 - 🔭 I’m currently working on a **personal assitant android app** and on a **RISC-V accelerator** using **FPGA**
 - 🌱 I’m currently learning **cloud technologies**
 - 👯 I’m looking to collaborate on **web development** and **hardware design** projects
