@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a **personal assitant android app** and on a **RISC-V accelerator** using **FPGA**
 - 🌱 I’m currently learning **cloud technologies**
 - 👯 I’m looking to collaborate on **web development** and **hardware design** projects
-- 📬 You can reach me at elior.s@outlook.com
+- 📬 You can reach me at elior.qr@gmail.com
 <br>
 
 ### Check my 2D game designed using an FPGA [here](https://github.com/sthd/Dangerous-Dave-FPGA)
